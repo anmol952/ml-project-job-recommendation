@@ -126,6 +126,7 @@ print(f"The predicted category for the resume is: {predicted_category}")
 
 
 
+
 💾 Saved Files
 tfidf.pkl: The saved TF-IDF vectorizer object.
 
@@ -138,7 +139,7 @@ encoder.pkl: The label encoder for the job categories.
 <tr>
 <td align="center">
 <a href="https://github.com/anmol952" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/185101209?v=4" width="100px;" style="border-radius: 50%" alt="Anmol's Profile Picture"/>
+<img src="https://avatars.githubusercontent.com/u/185101209?v=4" width="100px;" style="border-radius: 50%;" alt="Anmol's Profile Picture"/>
 <br />
 <sub><b>Anmol</b></sub>
 </a>
@@ -147,7 +148,7 @@ encoder.pkl: The label encoder for the job categories.
 </td>
 <td align="center">
 <a href="https://github.com/amitsinghrawat777" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/101490788?v=4" width="100px;" style="border-radius: 50%" alt="Amit Rawat's Profile Picture"/>
+<img src="https://avatars.githubusercontent.com/u/101490788?v=4" width="100px;" style="border-radius: 50%;" alt="Amit Rawat's Profile Picture"/>
 <br />
 <sub><b>Amit Rawat</b></sub>
 </a>
