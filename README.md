@@ -130,3 +130,31 @@ tfidf.pkl: The saved TF-IDF vectorizer object.
 clf.pkl: The trained Support Vector Classifier model.
 
 encoder.pkl: The label encoder for the job categories.
+
+
+👥 Contributors
+<table>
+<tr>
+<td align="center">
+<a href="[https://github.com/anmol](https://github.com/anmol952)" target="_blank">
+<img src="[https://www.google.com/search?q=https://avatars.githubusercontent.com/anmol](https://avatars.githubusercontent.com/u/185101209?v=4)" width="100px;" alt="Anmol's Profile Picture"/>
+<br />
+<sub><b>Anmol</b></sub>
+</a>
+<br />
+<sub>ML Engineer</sub>
+</td>
+<td align="center">
+<a href="https://www.google.com/search?q=https://github.com/amitrawat" target="_blank">
+<img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/amitrawat" width="100px;" alt="Amit Rawat's Profile Picture"/>
+<br />
+<sub><b>Amit Rawat</b></sub>
+</a>
+<br />
+<sub>Fullstack Engineer</sub>
+</td>
+<td align="center">
+<!-- Leave space for other contributors -->
+</td>
+</tr>
+</table>
