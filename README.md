@@ -145,8 +145,8 @@ encoder.pkl: The label encoder for the job categories.
 <sub>ML Engineer</sub>
 </td>
 <td align="center">
-<a href="https://www.google.com/search?q=https://github.com/amitrawat" target="_blank">
-<img src="https://www.google.com/search?q=https://avatars.githubusercontent.com/amitrawat" width="100px;" alt="Amit Rawat's Profile Picture"/>
+<a href="https://github.com/amitsinghrawat777" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/101490788?v=4" width="100px;" alt="Amit Rawat's Profile Picture"/>
 <br />
 <sub><b>Amit Rawat</b></sub>
 </a>
