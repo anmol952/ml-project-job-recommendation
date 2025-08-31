@@ -127,7 +127,6 @@ print(f"The predicted category for the resume is: {predicted_category}")
 
 
 
-
 💾 Saved Files
 tfidf.pkl: The saved TF-IDF vectorizer object.
 
@@ -136,16 +135,28 @@ clf.pkl: The trained Support Vector Classifier model.
 encoder.pkl: The label encoder for the job categories.
 
 👥 Contributors
-<p align="center">
+<table>
+<tr>
+<td align="center">
 <a href="https://github.com/anmol952" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/185101209?v=4" width="100px;" alt="Anmol's Profile Picture" style="border-radius:50%">
-<br>
+<img src="https://avatars.githubusercontent.com/u/185101209?v=4" width="100px;" style="border-radius: 50%;" alt="Anmol's Profile Picture"/>
+<br />
 <sub><b>Anmol</b></sub>
 </a>
-&nbsp;&nbsp;&nbsp;
+<br />
+<sub>ML Engineer</sub>
+</td>
+<td align="center">
 <a href="https://github.com/amitsinghrawat777" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/101490788?v=4" width="100px;" alt="Amit Rawat's Profile Picture" style="border-radius:50%">
-<br>
+<img src="https://avatars.githubusercontent.com/u/101490788?v=4" width="100px;" style="border-radius: 50%;" alt="Amit Rawat's Profile Picture"/>
+<br />
 <sub><b>Amit Rawat</b></sub>
 </a>
-</p>
+<br />
+<sub>Fullstack Engineer</sub>
+</td>
+<td align="center">
+<!-- Leave space for other contributors -->
+</td>
+</tr>
+</table>
