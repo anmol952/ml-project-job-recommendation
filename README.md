@@ -136,8 +136,8 @@ encoder.pkl: The label encoder for the job categories.
 <table>
 <tr>
 <td align="center">
-<a href="[https://github.com/anmol](https://github.com/anmol952)" target="_blank">
-<img src="[https://www.google.com/search?q=https://avatars.githubusercontent.com/anmol](https://avatars.githubusercontent.com/u/185101209?v=4)" width="100px;" alt="Anmol's Profile Picture"/>
+<a href="https://github.com/anmol952" target="_blank">
+<img src="https://avatars.githubusercontent.com/u/185101209?v=4" width="100px;" alt="Anmol's Profile Picture"/>
 <br />
 <sub><b>Anmol</b></sub>
 </a>
